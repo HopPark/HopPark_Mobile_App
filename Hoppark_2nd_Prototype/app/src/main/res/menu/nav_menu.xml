@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Anasayfa"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/park_list"
+        android:title="Otopark Listesi"
+        android:icon="@drawable/smallpark"/>
+    <item
+        android:id="@+id/account"
+        android:title="Profil"
+        android:icon="@drawable/manageaccount"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Ayarlar"
+        android:icon="@drawable/settingssmall"/>
+    <item
+        android:id="@+id/balance"
+        android:title="Bakiye"
+        android:icon="@drawable/wallet"/>
+
+
+</menu>
